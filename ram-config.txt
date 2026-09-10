@@ -1,0 +1,7 @@
+#chang0030010 Ram upgrade
+incident- INC0010011
+old ram :8 gb
+new ram : 16 gb
+CPU :75%
+Satus :upgrade
+user impacted 15
